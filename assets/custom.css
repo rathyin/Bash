@@ -1,0 +1,62 @@
+.nav-pills .nav-link.active {
+    color: #fff;
+    background-color: orange;
+}
+.nav-pills a {
+    color: #fff
+}
+h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 40px;
+}
+p{
+    color: #606060
+}
+.graph{
+  margin-left: auto;
+    width: 75%;
+     height: 100px;
+ }
+
+.drop1
+{
+width:50%; 
+
+}
+
+.drop2
+{
+margin-left:20px;
+    width:50%;
+
+}
+.drop3
+{
+margin-left:20px;
+    width:50%;
+
+}
+
+.dropmount{
+    margin-top:4%;
+   width:50%;  
+}
+
+.outerdiv
+{
+    margin-top:5%;
+    margin-right:8%;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.outer{
+    width:50%; 
+    margin-left:35%;
+}
+
+
+ 
+
